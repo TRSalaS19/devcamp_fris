@@ -6,4 +6,4 @@ This project wa sa simple html and css website.
 
 ### Description:
 
-The css flexbox, transromations and grids throught the project.
+The css flexbox, transformations and grids throught the project.
